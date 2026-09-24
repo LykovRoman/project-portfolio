@@ -4,9 +4,9 @@
 
 ## Проекты
 
-- [Точка](https://github.com/Krutoy312/tochka-coffee) — Лендинг кофейни.
-- [Мастерская](https://github.com/Krutoy312/masterskaya-booking) — Веб-приложение онлайн-записи.
-- [Заказ рядом](https://github.com/Krutoy312/zakaz-ryadom) — Мобильный интерактивный прототип.
+- [Точка](https://github.com/LykovRoman/tochka-coffee) — Лендинг кофейни.
+- [Мастерская](https://github.com/LykovRoman/masterskaya-booking) — Веб-приложение онлайн-записи.
+- [Заказ рядом](https://github.com/LykovRoman/zakaz-ryadom) — Мобильный интерактивный прототип.
 
 ## Запуск
 
